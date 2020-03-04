@@ -1,0 +1,28 @@
+
+{
+  "name": "Catatan Hutang",
+  "short_name": "CaTaHu",
+  "description": "Aplikasi Pencatat Hutang",
+  "start_url": "/",
+  "Scope": "/",
+  "display": "standalone",
+  "background_color": "#00897B",
+  "theme_color": "#00897B",
+  "icons": [
+    {
+      "src": "48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
